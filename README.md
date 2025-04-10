@@ -1,7 +1,7 @@
 # Ryan Seiji Wakugawa
 <p align="center">
-<img src="./img/foto.jpg" width="200>
-</img>
+  <img src="./img/foto.jpg" width="200">
+  </img>
 </p>
 
 Meu nome é Ryan Seiji Wakugawa e tenho 21 anos. Comecei meus estudos em 2018 com um curso técnico em Automação Industrial pela Etec Profª Ilza Nascimento Pintus. Tive a oportunidade de me aprofundar no mundo da programação em uma das aulas e decidi que esse seria o caminho que gostaria de seguir. Depois de me formar, comecei a cursar Análise e Desenvolvimento de Sistemas pela FATEC São José dos Campos - Prof. Jessen Vidal em 2023.
