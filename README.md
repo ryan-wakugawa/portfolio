@@ -49,7 +49,7 @@ A solução adotada foi o desenvolvimento de um aplicativo web que centralizava 
 - Git
 
 ### Contribuições Pessoais
-Nesse projeto atuei como Product Owner, montei o backlog, realizei reuniões semanais com o cliente e garantindo que o produto final esteja de acordo com as visões dele. Além disso
+Nesse projeto atuei como Product Owner, montei o backlog, realizei reuniões semanais com o cliente e garantindo que o produto final esteja de acordo com as visões dele. Além disso, contribuí diretamente com o time de desenvolvimento, auxiliando na criação das páginas da aplicação utilizando HTML e CSS, bem como na configuração do framework Flask.
 
 ### Hard Skills
 - **HTML** - Uso com autonomia
