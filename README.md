@@ -39,8 +39,6 @@ O problema apresentado se baseava na dificuldade que novos funcionários apresen
 
 A solução adotada foi o desenvolvimento de um aplicativo web que centralizava informações sobre o Scrum e oferecia uma trilha de aprendizado interativa para revisar os conteúdos abordados. O aplicativo foi projetado com foco especial em responsividade com o para que o usuário consiga utilizá-lo a partir de qualquer dispositivo.
 
-[Link do repositório](https://github.com/erickhoawata/DDT-1-Sem)
-
 ### Tecnologias Utilizadas
 - HTML
 - CSS
