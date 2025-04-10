@@ -23,15 +23,16 @@ Me considero um desenvolvedor full stack, com mais familiaridade pelo back-end. 
 - SQL
 - MongoDB
 
-
 ## Meus Projetos
 ### [Primeiro semestre (2023-1)](https://github.com/erickhoawata/DDT-1-Sem)
-<!--- TODO --->
-O projeto do primeiro semestre teve como empresa parceira a própria faculdade. O professor Antonio Egydio São Thaigo Graça assumiu o papel de cliente final.
+- **Professor P2** - Antônio Egydio São Thiago Graça
+- **Professor M2** - Jean Carlos Lourenço Costa
 
-O problema apresentado se baseava na dificuldade dos funcionários de aprenderem e aplicarem a metodologia Scrum dentro do ambiente profissional.
+O projeto do primeiro semestre teve como empresa parceira a própria faculdade. O professor Antônio Egydio São Thiago Graça assumiu o papel de cliente final.
 
-A solução encontrada foi desenvolver um aplicativo web que reunia informações sobre o Scrum e aplicava uma pequena trilha de conhecimento para revisar o que foi aprendido. O aplicativo tinha foco especial na responsividade, para que o funcionário conseguisse acessá-lo a partir de qualquer dispositivo.
+O problema apresentado se baseava na dificuldade que novos funcionários apresentavam para aprender e aplicar a metodologia Scrum dentro do ambiente profissional, necessitando que funcionários mais experientes dedicassem parte do tempo para auxiliá-los.
+
+A solução adotada foi o desenvolvimento de um aplicativo web que centralizava informações sobre o Scrum e oferecia uma trilha de aprendizado interativa para revisar os conteúdos abordados. O aplicativo foi projetado com foco especial em responsividade com o para que o usuário consiga utilizá-lo a partir de qualquer dispositivo.
 
 [Link do repositório](https://github.com/erickhoawata/DDT-1-Sem)
 
@@ -48,4 +49,13 @@ A solução encontrada foi desenvolver um aplicativo web que reunia informaçõe
 Nesse projeto atuei como Product Owner, montei o backlog, realizei reuniões semanais com o cliente e garantindo que o produto final esteja de acordo com as visões dele. Além disso
 
 ### Hard Skills
+- **HTML** - Uso com autonomia
+- **CSS** - Uso com autonomia
+- **Python** - Uso autonomia
+- **Flask** - Uso com ajuda
+- **Git** - Uso com autonomia
+
 ### Soft Skills
+Durante o projeto, utilizei meu **pensamento crítico** para compreender e analisar as necessidades do cliente em uma reunião na qual ele ainda não tinha clareza sobre o que desejava. Como solução, propus a implementação de uma trilha de aprendizado na plataforma, o que atendeu às expectativas e gerou satisfação por parte do cliente.
+
+Também foi essencial exercer minha **resiliência** ao enfrentar desafios inéditos e atender às expectativas de entrega durante o semestre. Esse aspecto ficou especialmente evidente durante a segunda sprint, quando um dos integrantes precisou deixar o grupo, exigindo uma reestruturação do grupo e das tarefas.
