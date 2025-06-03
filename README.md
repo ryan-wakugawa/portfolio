@@ -14,7 +14,6 @@ Ainda não comecei minha carreira profissionalmente, apesar de já ter realizado
 - [Email](mailto:ryawak@gmail.com)
 
 ## Principais conhecimentos
-<!--- TODO --->
 Me considero um desenvolvedor full stack, com mais familiaridade pelo back-end. Dentre as tecnologias que aprendi, se destacam:
 - TypeScript
 - JavaScript
@@ -29,6 +28,14 @@ Me considero um desenvolvedor full stack, com mais familiaridade pelo back-end. 
 - MongoDB
 
 ## Meus Projetos
+
+### Índice
+- [Primeiro semestre (2023-1)](#primeiro-semestre-2023-1)
+- [Segundo semestre (2023-2)](#segundo-semestre-2023-2)
+- [Terceiro semestre (2024-1)](#terceiro-semestre-2024-1)
+- [Quarto semestre (2024-2)](#quarto-semestre-2024-2)
+- [Quinto semestre (2024-2)](#quinto-semestre-2024-2)
+
 ### [Primeiro semestre (2023-1)](https://github.com/erickhoawata/DDT-1-Sem)
 - **Professor P2** - Antônio Egydio São Thiago Graça
 - **Professor M2** - Jean Carlos Lourenço Costa
@@ -99,7 +106,7 @@ Nesse projeto atuei, atuei como integrante do time de desenvolvimento, sendo res
 
 O projeto do terceiro semestre teve como empresa parceira a [Pro4Tech](https://www.pro4tech.com.br/).
 
-O problema apresentado se baseava na ausência de uma ferramenta eficiente para calcular e exibir comissões de vendas de forma a considerar os diferentes tipos de vendas e regras de remuneração aplicadas, o que dificultava a visualiação dos ganhos por parte dos vendedores e o plano estratégico da empresa.
+O problema apresentado se baseava na ausência de uma ferramenta eficiente para calcular e exibir comissões de vendas de forma a considerar os diferentes tipos de vendas e regras de remuneração aplicadas, o que dificultava a visualição dos ganhos por parte dos vendedores e o plano estratégico da empresa.
 
 Como solução, foi desenvolvido um dashboard de vendas que recebe, processa e classifica vendas de acordo com o tipo (produto novo ou antigo, para cliente novo ou antigo), beneficiando o vendedor com um bonus dependendo do tipo de venda.
 
@@ -190,26 +197,25 @@ Como solução, foi desenvolvido um sistema de reembolso corporativo que permite
 Nesse projeto, atuei como Scrum Master, acompanhando o burndown da equipe e assegurando a entrega das tarefas da sprint dentro dos prazos estabelecidos. Além disso, contribuí no desenvolvimento do backend, atuando na correção de bugs e na implementação da interface do painel administrativo.
 
 #### Hard Skills
-<!--- TODO -->
 - **Mobile**
   - **React Native**
   - **Expo**
   - **Gluestack UI**
   - **TailwindCSS**
-- Web
-  - React
-  - Next.js
-  - Chakra UI
-  - TailwindCSS
-  - Redux Toolkit
-- API
-  - NestJS
-  - TypeScript
-  - Node.js
-  - MongoDB Atlas
-  - AWS S3
-  - AWS EC2
-  - Swagger
-  
+- **Web**
+  - **React**
+  - **Next.js**
+  - **Chakra UI**
+  - **TailwindCSS**
+  - **Redux Toolkit**
+- **API**
+  - **NestJS**
+  - **TypeScript**
+  - **Node.js**
+  - **MongoDB Atlas**
+  - **AWS S3**
+  - **AWS EC2**
+  - **Swagger**
+
 #### Soft Skills
 <!--- TODO -->
