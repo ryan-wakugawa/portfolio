@@ -97,7 +97,7 @@ Nesse projeto atuei, atuei como integrante do time de desenvolvimento, sendo res
 - **Professor P2** - 
 - **Professor M2** - 
 
-O projeto do segundo semestre teve como empresa parceira a [Pro4Tech](https://www.pro4tech.com.br/).
+O projeto do terceiro semestre teve como empresa parceira a [Pro4Tech](https://www.pro4tech.com.br/).
 
 O problema apresentado se baseava na ausência de uma ferramenta eficiente para calcular e exibir comissões de vendas de forma a considerar os diferentes tipos de vendas e regras de remuneração aplicadas, o que dificultava a visualiação dos ganhos por parte dos vendedores e o plano estratégico da empresa.
 
@@ -112,5 +112,104 @@ TODO
 #### Hard Skills
 - TODO
 
+#### Soft Skills
+<!--- TODO -->
+
+### [Quarto semestre (2024-2)](https://github.com/C0demain/logflow)
+- **Professor P2** - 
+- **Professor M2** - 
+
+O projeto do quarto semestre teve como empresa parceira a [JJM Log](https://logistica.jjmlog.com/).
+
+O problema apresentado se baseava na necessidade da empresa de uma plataforma unificada para acompanhamento de ordens de serviço e organização de reuniões entre os funcionários.
+
+Como solução, foi desenvolvido um sistema de fluxo de trabalho para Ordens de Serviço, permitindo o acompanhamento em tempo real do andamento e cumprimento das tarefas relacionadas a cada ordem e um portal do funcionário. O sistema conta ainda com um dashboard de indicadores de desempenho, segmentado por departamento (operacional, comercial e financeiro), possibilitando a análise de produtividade e metas. Também foi criada uma base de dados indexada para armazenamento e consulta de documentos e planilhas importantes, um sistema de agenda para marcação de compromissos e prazos de tarefas e um chat interno para facilitar a comunicação entre os colaboradores.
+
+#### Tecnologias Utilizadas
+- Next.js
+- React
+- TailwindCSS
+- DaisyUI
+- NestJS
+- Node.js
+- Typescript
+- PostgresSQL
+- Swagger
+- Docker
+
+#### Contribuições Pessoais
+Nesse projeto, contribuí com o desenvolvimento de um sistema de calendário para organização de reuniões e eventos importantes, com integração ao Google Calendar para sincronização entre múltiplos dispositivos. Além disso, implementei um gatilho (trigger) no banco de dados para alterar automaticamente o status de uma ordem de serviço com base na conclusão das tarefas associadas.
+
+#### Hard Skills
+- **Next.js** - Uso com ajuda
+- **React** - Uso com autonomia
+- **TailwindCSS** - Uso com ajuda
+- **DaisyUI** - Uso com ajuda
+- **NestJS** - Uso com autonomia
+- **Node.js** - Uso com autonomia
+- **Typescript** - Uso com autonomia
+- **PostgresSQL** - Uso com autonomia
+- **Swagger** - Uso com ajuda
+- **Docker** - Uso com autonomia
+  
+#### Soft Skills
+<!--- TODO -->
+
+### [Quinto semestre (2024-2)](https://github.com/C0demain/logflow)
+- **Professor P2** - Gerson
+- **Professor M2** - Ronaldo
+
+O projeto do quinto semestre teve como empresa parceira a [GSW](https://www.gsw.com.br/).
+
+O problema apresentado envolvia a complexidade e a demora no processo de aprovação e gerenciamento de reembolsos de despesas corporativas, causando atrasos e falta de transparência tanto para funcionários quanto para gestores.
+
+Como solução, foi desenvolvido um sistema de reembolso corporativo que permite aos colaboradores registrar suas despesas, anexar comprovantes e acompanhar o status das solicitações. Gestores, por sua vez, contam com um painel administrativo para aprovar ou rejeitar os pedidos com base em regras definidas, como limites por projeto.
+
+#### Tecnologias Utilizadas
+- Mobile
+  - React Native
+  - Expo
+  - Gluestack UI
+  - TailwindCSS
+- Web
+  - React
+  - Next.js
+  - Chakra UI
+  - TailwindCSS
+  - Redux Toolkit
+- API
+  - NestJS
+  - TypeScript
+  - Node.js
+  - MongoDB Atlas
+  - AWS S3
+  - AWS EC2
+  - Swagger
+
+#### Contribuições Pessoais
+Nesse projeto, atuei como Scrum Master, acompanhando o burndown da equipe e assegurando a entrega das tarefas da sprint dentro dos prazos estabelecidos. Além disso, contribuí no desenvolvimento do backend, atuando na correção de bugs e na implementação da interface do painel administrativo.
+
+#### Hard Skills
+<!--- TODO -->
+- **Mobile**
+  - **React Native**
+  - **Expo**
+  - **Gluestack UI**
+  - **TailwindCSS**
+- Web
+  - React
+  - Next.js
+  - Chakra UI
+  - TailwindCSS
+  - Redux Toolkit
+- API
+  - NestJS
+  - TypeScript
+  - Node.js
+  - MongoDB Atlas
+  - AWS S3
+  - AWS EC2
+  - Swagger
+  
 #### Soft Skills
 <!--- TODO -->
