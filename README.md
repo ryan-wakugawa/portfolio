@@ -40,7 +40,7 @@ Me considero um desenvolvedor full stack, com mais familiaridade pelo back-end. 
 - **Professor P2** - Antônio Egydio São Thiago Graça
 - **Professor M2** - Jean Carlos Lourenço Costa
 
-O projeto do primeiro semestre teve como empresa parceira a própria faculdade. O professor Antônio Egydio São Thiago Graça assumiu o papel de cliente final.
+O projeto do primeiro semestre teve como empresa parceira a própria faculdade. O professor **Antônio Egydio São Thiago Graça** assumiu o papel de cliente final.
 
 O problema apresentado se baseava na dificuldade que novos funcionários apresentavam para aprender e aplicar a metodologia Scrum dentro do ambiente profissional, necessitando que funcionários mais experientes dedicassem parte do tempo para auxiliá-los.
 
@@ -71,10 +71,10 @@ Durante o projeto, utilizei meu **pensamento crítico** para compreender e anali
 Também foi essencial exercer minha **resiliência** ao enfrentar desafios inéditos e atender às expectativas de entrega durante o semestre. Esse aspecto ficou especialmente evidente durante a segunda sprint, quando um dos integrantes precisou deixar o grupo, exigindo uma reestruturação do grupo e das tarefas.
 
 ### [Segundo semestre (2023-2)](https://github.com/C0demain/ParrotAI)
-- **Professor P2** - 
+- **Professor P2** - Giuliano Araujo Bertoti
 - **Professor M2** - 
 
-O projeto do segundo semestre teve como empresa parceira a própria faculdade. O professor **TODO** assumiu o papel de cliente final.
+O projeto do segundo semestre teve como empresa parceira a própria faculdade. O professor **Giuliano Bertoti** assumiu o papel de cliente final.
 
 O problema apresentado se baseava na escassez de chatbots no mercado capazes de ler o conteudo arquivos PDFs e utilizá-los como base para responder perguntas pertinentes ao contexto.
 
@@ -88,7 +88,7 @@ Como solução, foi desenvolvido um aplicativo desktop em Java que permite ao us
 - Git
 
 #### Contribuições Pessoais
-Nesse projeto atuei, atuei como integrante do time de desenvolvimento, sendo responsável pela integração do sistema de login com o banco de dados e pela implementação da interface de seleção de arquivos, utilizando Java Swing.
+Nesse projeto atuei como integrante do time de desenvolvimento, sendo responsável pela integração do sistema de login com o banco de dados e pela implementação da interface de seleção de arquivos, utilizando Java Swing.
 
 #### Hard Skills
 - **Java** - Uso com autonomia
@@ -102,7 +102,7 @@ Nesse projeto atuei, atuei como integrante do time de desenvolvimento, sendo res
 
 ### [Terceiro semestre (2024-1)](https://github.com/C0demain/sales-dash)
 - **Professor P2** - 
-- **Professor M2** - 
+- **Professor M2** - Cláudio Etelvino de Lima
 
 O projeto do terceiro semestre teve como empresa parceira a [Pro4Tech](https://www.pro4tech.com.br/).
 
@@ -123,8 +123,8 @@ TODO
 <!--- TODO -->
 
 ### [Quarto semestre (2024-2)](https://github.com/C0demain/logflow)
-- **Professor P2** - 
-- **Professor M2** - 
+- **Professor P2** - Juliana Forin Paasquini Martinez
+- **Professor M2** - Juliana Forin Paasquini Martinez
 
 O projeto do quarto semestre teve como empresa parceira a [JJM Log](https://logistica.jjmlog.com/).
 
@@ -163,8 +163,8 @@ Nesse projeto, contribuí com o desenvolvimento de um sistema de calendário par
 <!--- TODO -->
 
 ### [Quinto semestre (2024-2)](https://github.com/C0demain/logflow)
-- **Professor P2** - Gerson
-- **Professor M2** - Ronaldo
+- **Professor P2** - Gerson da Penha Neto
+- **Professor M2** - Ronaldo Emerick Moreira
 
 O projeto do quinto semestre teve como empresa parceira a [GSW](https://www.gsw.com.br/).
 
