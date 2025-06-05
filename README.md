@@ -97,7 +97,7 @@ Nesse projeto atuei como Product Owner, montei o backlog, realizei reuniões sem
 
 - **HTML** - Uso com autonomia
 - **CSS** - Uso com autonomia
-- **Python** - Uso autonomia
+- **Python** - Uso com autonomia
 - **Flask** - Uso com ajuda
 - **Git** - Uso com autonomia
 
@@ -134,7 +134,7 @@ Nesse projeto, atuei como integrante do time de desenvolvimento, sendo responsá
 
 - **Java** - Uso com autonomia
 - **Java Swing** - Uso com autonomia
-- **Gradle** - Uso autonomia
+- **Gradle** - Uso com autonomia
 - **MySQL** - Uso com ajuda
 - **Git** - Uso com autonomia
 
@@ -199,7 +199,7 @@ Como solução, foi desenvolvido um sistema de fluxo de trabalho para Ordens de 
 - NestJS
 - Node.js
 - Typescript
-- PostgresSQL
+- PostgreSQL
 - Swagger
 - Docker
 
@@ -216,7 +216,7 @@ Nesse projeto, contribuí com o desenvolvimento de um sistema de calendário par
 - **NestJS** - Uso com autonomia
 - **Node.js** - Uso com autonomia
 - **Typescript** - Uso com autonomia
-- **PostgresSQL** - Uso com autonomia
+- **PostgreSQL** - Uso com autonomia
 - **Swagger** - Uso com ajuda
 - **Docker** - Uso com autonomia
 
@@ -224,7 +224,7 @@ Nesse projeto, contribuí com o desenvolvimento de um sistema de calendário par
 
 Nesse projeto, exercitei minha soft skill de **solução de problemas** ao atender ao pedido do cliente pela implementação de um sistema de calendário. Para isso, desenvolvi uma página no aplicativo que exibe os eventos marcados pelo usuário, com a funcionalidade de sincronização com o Google Agenda, permitindo o acesso a partir de múltiplos dispositivos.
 
-Além disso, foi essencial aplicar **flexibilidade e resiliência** durante o desenvolvimento, especialmente quando o cliente ficou ausente por um longo período. Essa ausência dificultou a validação de funcionalidades, exigindo autonomia e adaptação por parte da equipe para dar continuidade ao projeto com base nas diretrizes já definidas.
+Além disso, foi essencial exercer **flexibilidade e resiliência** durante o desenvolvimento, especialmente quando o cliente ficou ausente por um longo período. Essa ausência dificultou a validação de funcionalidades, exigindo autonomia e adaptação por parte da equipe para dar continuidade ao projeto com base nas diretrizes já definidas.
 
 ### [Quinto semestre (2025-1)](https://github.com/C0demain/logflow)
 
@@ -242,7 +242,7 @@ Para resolver esse problema, foi desenvolvido um sistema de reembolso corporativ
 - **Mobile**
   - React Native
   - Expo
-  - Gluestack UI
+  - GluestackUI
   - TailwindCSS
 - **Web**
   - React
@@ -261,14 +261,14 @@ Para resolver esse problema, foi desenvolvido um sistema de reembolso corporativ
 
 #### Contribuições Pessoais
 
-Nesse projeto, atuei como Scrum Master, sendo responsável por acompanhar o burndown chart da equipe e garantir que as entregas das sprints ocorressem dentro dos prazos estabelecidos. Também contribuí no desenvolvimento do backend, atuando na correção de bugs e na implementação de funcionalidades no painel administrativo, promovendo melhorias na usabilidade e no controle do sistema.
+Nesse projeto, atuei como Scrum Master, sendo responsável por acompanhar o gráfico de burndown da equipe e garantir que as entregas das sprints ocorressem dentro dos prazos estabelecidos. Também contribuí no desenvolvimento do backend, atuando na correção de bugs e na implementação de funcionalidades no painel administrativo, promovendo melhorias na usabilidade e no controle do sistema.
 
 #### Hard Skills
 
 - **Mobile**
   - **React Native** - Uso com ajuda
   - **Expo** - Uso com ajuda
-  - **Gluestack UI** - Uso com ajuda
+  - **GluestackUI** - Uso com ajuda
   - **TailwindCSS** - Uso com ajuda
 - **Web**
   - **React** - Uso com autonomia
