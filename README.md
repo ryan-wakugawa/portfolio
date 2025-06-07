@@ -110,7 +110,7 @@ Também foi essencial exercer minha **resiliência** ao enfrentar desafios inéd
 ### [Segundo semestre (2023-2)](https://github.com/C0demain/ParrotAI)
 
 - **Professor P2** - Giuliano Araujo Bertoti
-- **Professor M2** -
+- **Professor M2** - Cláudio Etelvino de Lima
 
 O projeto do segundo semestre teve como empresa parceira a própria faculdade. O professor **Giuliano Araujo Bertoti** assumiu o papel de cliente final.
 
@@ -146,7 +146,7 @@ Além disso, coloquei em prática a soft skill **trabalho em equipe** ao colabor
 
 ### [Terceiro semestre (2024-1)](https://github.com/C0demain/sales-dash)
 
-- **Professor P2** -
+- **Professor P2** - Fernando Masanori Ashikaga
 - **Professor M2** - Cláudio Etelvino de Lima
 
 O projeto do terceiro semestre teve como empresa parceira a [Pro4Tech](https://www.pro4tech.com.br/).
