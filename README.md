@@ -24,8 +24,10 @@ Me considero um desenvolvedor full stack, com mais familiaridade com o back-end.
 - Java
 - Python
 - React
+- Vue.js
 - HTML
 - CSS
+- Node.js
 - Git
 - Docker
 - SQL
@@ -81,13 +83,15 @@ A solução adotada foi o desenvolvimento de um aplicativo web que centralizava 
 
 #### Tecnologias Utilizadas
 
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- Python
-- Flask
-- Git
+- **Web**
+  - Python
+  - HTML
+  - CSS
+  - JavaScript
+  - Bootstrap
+  - Flask
+- **Versionamento**
+  - Git
 
 #### Contribuições Pessoais
 
@@ -95,6 +99,7 @@ Nesse projeto atuei como Product Owner, montei o backlog, realizei reuniões sem
 
 #### Hard Skills
 
+- **Python** - Uso com autonomia
 - **HTML** - Uso com autonomia
 - **CSS** - Uso com autonomia
 - **Python** - Uso com autonomia
@@ -120,11 +125,14 @@ Como solução, foi desenvolvido um aplicativo desktop em Java que permite ao us
 
 #### Tecnologias Utilizadas
 
-- Java
-- Java Swing
-- Gradle
-- MySQL
-- Git
+- **Aplicação**
+  - Java
+  - Java Swing
+- **Ferramentas**
+  - Gradle
+  - MySQL
+- **Versionamento**
+  - Git
 
 #### Contribuições Pessoais
 
@@ -149,7 +157,7 @@ Além disso, coloquei em prática a soft skill **trabalho em equipe** ao colabor
 - **Professor P2** - Fernando Masanori Ashikaga
 - **Professor M2** - Cláudio Etelvino de Lima
 
-O projeto do terceiro semestre teve como empresa parceira a [Pro4Tech](https://www.pro4tech.com.br/).
+O projeto do terceiro semestre teve como empresa parceira a [Pro4Tech](https://www.pro4tech.com.br/), especializada em transformação digital.
 
 O problema apresentado baseava-se na ausência de uma ferramenta eficiente para calcular e exibir comissões de vendas de forma a considerar os diferentes tipos de vendas e regras de remuneração aplicadas, o que dificultava a visualização dos ganhos por parte dos vendedores e o planejamento estratégico da empresa.
 
@@ -157,11 +165,14 @@ Como solução, foi desenvolvido um dashboard de vendas que recebe, processa e c
 
 #### Tecnologias Utilizadas
 
-- Node.js
-- React
-- TypeScript
-- PostgreSQL
-- Postman
+- **Web**
+  - React
+- **Server**
+  - TypeScript
+  - Node.js
+- **Ferramentas**
+  - PostgreSQL
+  - Postman
 
 #### Contribuições Pessoais
 
@@ -177,14 +188,14 @@ Atuei como integrante da equipe de desenvolvimento, sendo responsável pela impl
 
 #### Soft Skills
 
-Nesse projeto tive que aplicar meu **pensamento crítico** e **trabalho em equipe** para criar um sistema que correspondesse às regras de negócio estabelecidas pelo cliente.
+Nesse projeto tive que aplicar meu **pensamento crítico** para analisar quais os dados mais importantes para a geração dos gráficos. Também tive que exercitar meu **trabalho em equipe** para criar os gráficos da dashboard conjuntamente com um membro do grupo, conversando e organizando quais dados deveriam ser utilizados e como seriam estruturados.
 
 ### [Quarto semestre (2024-2)](https://github.com/C0demain/logflow)
 
 - **Professor P2** - Juliana Forin Pasquini Martinez
 - **Professor M2** - Juliana Forin Pasquini Martinez
 
-O projeto do quarto semestre teve como empresa parceira a [JJM Log](https://logistica.jjmlog.com/).
+O projeto do quarto semestre teve como empresa parceira a [JJM Log](https://logistica.jjmlog.com/), empresa de logística, transporte e distribução.
 
 O problema apresentado baseava-se na necessidade da empresa de uma plataforma unificada para acompanhamento de ordens de serviço e organização de reuniões entre os funcionários.
 
@@ -192,16 +203,19 @@ Como solução, foi desenvolvido um sistema de fluxo de trabalho para Ordens de 
 
 #### Tecnologias Utilizadas
 
-- Next.js
-- React
-- TailwindCSS
-- DaisyUI
-- NestJS
-- Node.js
-- Typescript
-- PostgreSQL
-- Swagger
-- Docker
+- **Web**
+  - React
+  - Next.js
+  - TailwindCSS
+  - DaisyUI
+- **Server**
+  - Typescript
+  - NestJS
+  - Node.js
+- **Ferramentas**
+  - PostgreSQL
+  - Swagger
+  - Docker
 
 #### Contribuições Pessoais
 
@@ -231,7 +245,7 @@ Além disso, foi essencial exercer **flexibilidade e resiliência** durante o de
 - **Professor P2** - Gerson da Penha Neto
 - **Professor M2** - Ronaldo Emerick Moreira
 
-O projeto do quinto semestre teve como empresa parceira a [GSW](https://www.gsw.com.br/).
+O projeto do quinto semestre teve como empresa parceira a [GSW](https://www.gsw.com.br/), especializada no desenvolvimento em soluções em TI, tais como gerenciamento e controle de processos.
 
 O problema apresentado envolvia a complexidade e a demora no processo de aprovação e gerenciamento de reembolsos de despesas corporativas, causando atrasos e falta de transparência tanto para funcionários quanto para gestores.
 
