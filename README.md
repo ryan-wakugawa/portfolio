@@ -99,12 +99,14 @@ Nesse projeto atuei como Product Owner, montei o backlog, realizei reuniões sem
 
 #### Hard Skills
 
-- **Python** - Uso com autonomia
-- **HTML** - Uso com autonomia
-- **CSS** - Uso com autonomia
-- **Python** - Uso com autonomia
-- **Flask** - Uso com ajuda
-- **Git** - Uso com autonomia
+- **Web**
+  - **Python** - Uso com autonomia
+  - **HTML** - Uso com autonomia
+  - **CSS** - Uso com autonomia
+  - **Python** - Uso com autonomia
+  - **Flask** - Uso com ajuda
+- **Versionamento**
+  - **Git** - Uso com autonomia
 
 #### Soft Skills
 
@@ -140,11 +142,14 @@ Nesse projeto, atuei como integrante do time de desenvolvimento, sendo responsá
 
 #### Hard Skills
 
-- **Java** - Uso com autonomia
-- **Java Swing** - Uso com autonomia
-- **Gradle** - Uso com autonomia
-- **MySQL** - Uso com ajuda
-- **Git** - Uso com autonomia
+- **Aplicação**
+  - **Java** - Uso com autonomia
+  - **Java Swing** - Uso com autonomia
+- **Ferramentas**
+  - **Gradle** - Uso com autonomia
+  - **MySQL** - Uso com ajuda
+- **Versionamento**
+  - **Git** - Uso com autonomia
 
 #### Soft Skills
 
@@ -180,11 +185,14 @@ Atuei como integrante da equipe de desenvolvimento, sendo responsável pela impl
 
 #### Hard Skills
 
-- **Node.js** - Uso com autonomia
-- **React** - Uso com autonomia
-- **TypeScript** - Uso com autonomia
-- **PostgreSQL** - Uso com autonomia
-- **Postman** - Uso com autonomia
+- **Web**
+  - **React** - Uso com autonomia
+- **Server**
+  - **TypeScript** - Uso com autonomia
+  - **Node.js** - Uso com autonomia
+- **Ferramentas**
+  - **PostgreSQL** - Uso com autonomia
+  - **Postman** - Uso com autonomia
 
 #### Soft Skills
 
@@ -223,16 +231,19 @@ Nesse projeto, contribuí com o desenvolvimento de um sistema de calendário par
 
 #### Hard Skills
 
-- **Next.js** - Uso com ajuda
-- **React** - Uso com autonomia
-- **TailwindCSS** - Uso com ajuda
-- **DaisyUI** - Uso com ajuda
-- **NestJS** - Uso com autonomia
-- **Node.js** - Uso com autonomia
-- **Typescript** - Uso com autonomia
-- **PostgreSQL** - Uso com autonomia
-- **Swagger** - Uso com ajuda
-- **Docker** - Uso com autonomia
+- **Web**
+  - **Next.js** - Uso com ajuda
+  - **React** - Uso com autonomia
+  - **TailwindCSS** - Uso com ajuda
+  - **DaisyUI** - Uso com ajuda
+- **Server**
+  - **NestJS** - Uso com autonomia
+  - **Node.js** - Uso com autonomia
+  - **Typescript** - Uso com autonomia
+- **Ferramentas**
+  - **PostgreSQL** - Uso com autonomia
+  - **Swagger** - Uso com ajuda
+  - **Docker** - Uso com autonomia
 
 #### Soft Skills
 
