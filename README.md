@@ -7,7 +7,7 @@
 
 Meu nome é Ryan Seiji Wakugawa e tenho 22 anos. Comecei meus estudos em 2018 com um curso técnico em Automação Industrial pela Etec Profª Ilza Nascimento Pintus. Tive a oportunidade de me aprofundar no mundo da programação em uma das aulas e decidi que esse seria o caminho que gostaria de seguir. Depois de me formar, comecei a cursar Análise e Desenvolvimento de Sistemas pela FATEC São José dos Campos - Prof. Jessen Vidal em 2023.
 
-Ainda não comecei minha carreira profissionalmente, embora já tenha realizado alguns serviços como suporte de TI durante meu serviço militar em 2022.
+Atualmente estou atuando como estagiário na empresa [Processware](https://www.processwaregroup.com/). Também já realizei alguns serviços como suporte de TI durante meu serviço militar em 2022.
 
 ## Contatos
 
