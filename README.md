@@ -159,7 +159,7 @@ Além disso, coloquei em prática a soft skill **trabalho em equipe** ao colabor
 
 O projeto do terceiro semestre teve como empresa parceira a [Pro4Tech](https://www.pro4tech.com.br/), especializada em transformação digital.
 
-O problema apresentado baseava-se na ausência de uma ferramenta eficiente para calcular e exibir comissões de vendas de forma a considerar os diferentes tipos de vendas e regras de remuneração aplicadas, o que dificultava a visualização dos ganhos por parte dos vendedores e o planejamento estratégico da empresa.
+O problema apresentado provém da dificuldade em quantificar e categorizar as vendas realizadas, comprometendo a tomada de decisões e o planejamento estratégico da empresa, e de recompensar a performance dos vendedores baseando-se em certos critérios.
 
 Como solução, foi desenvolvido um dashboard de vendas que recebe, processa e classifica vendas de acordo com o tipo (produto novo ou antigo, para cliente novo ou antigo), beneficiando o vendedor com um bônus dependendo do tipo de venda.
 
@@ -199,7 +199,7 @@ O projeto do quarto semestre teve como empresa parceira a [JJM Log](https://logi
 
 O problema apresentado baseava-se na necessidade da empresa de uma plataforma unificada para acompanhamento de ordens de serviço e organização de reuniões entre os funcionários.
 
-Como solução, foi desenvolvido um sistema de fluxo de trabalho para Ordens de Serviço, permitindo o acompanhamento em tempo real do andamento e cumprimento das tarefas relacionadas a cada ordem e um portal do funcionário. O sistema conta ainda com um dashboard de indicadores de desempenho, segmentado por departamento (operacional, comercial e financeiro), possibilitando a análise de produtividade e metas. Também foi criada uma base de dados indexada para armazenamento e consulta de documentos e planilhas importantes, um sistema de agenda para marcação de compromissos e prazos de tarefas e um chat interno para facilitar a comunicação entre os colaboradores.
+Como solução, foi desenvolvido um sistema web de fluxo de trabalho para Ordens de Serviço, permitindo o acompanhamento em tempo real do andamento e cumprimento das tarefas relacionadas a cada ordem e um portal do funcionário. O sistema conta ainda com um dashboard de indicadores de desempenho, segmentado por departamento (operacional, comercial e financeiro), possibilitando a análise de produtividade e metas. Também foi criada uma base de dados indexada para armazenamento e consulta de documentos e planilhas importantes, um sistema de agenda para marcação de compromissos e prazos de tarefas e um chat interno para facilitar a comunicação entre os colaboradores.
 
 #### Tecnologias Utilizadas
 
