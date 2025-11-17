@@ -242,7 +242,7 @@ Nesse projeto, contribuí com o desenvolvimento de um sistema de calendário par
   - **Typescript** - Uso com autonomia
 - **Ferramentas**
   - **PostgreSQL** - Uso com autonomia
-  - **Swagger** - Uso com ajuda
+  - **Swagger** - Uso com autonomia
   - **Docker** - Uso com autonomia
 
 #### Soft Skills
@@ -260,7 +260,7 @@ O projeto do quinto semestre teve como empresa parceira a [GSW](https://www.gsw.
 
 O problema apresentado envolvia a complexidade e a demora no processo de aprovação e gerenciamento de reembolsos de despesas corporativas, causando atrasos e falta de transparência tanto para funcionários quanto para gestores.
 
-Para resolver esse problema, foi desenvolvido um sistema de reembolso corporativo que permite aos colaboradores registrar suas despesas, anexar comprovantes e acompanhar em tempo real o status das solicitações. Os gestores, por sua vez, têm acesso a um painel administrativo que facilita a análise e decisão sobre os pedidos, com base em regras pré-estabelecidas, como limites de valor por projeto.
+Para resolver esse problema, foi desenvolvido um sistema de reembolso corporativo que permite aos colaboradores registrarem suas despesas, anexar comprovantes e acompanhar em tempo real o status das solicitações. Os gestores, por sua vez, têm acesso a um painel administrativo que facilita a análise e decisão sobre os pedidos, com base em regras pré-estabelecidas, como limites de valor por projeto.
 
 #### Tecnologias Utilizadas
 
@@ -308,8 +308,65 @@ Nesse projeto, atuei como Scrum Master, sendo responsável por acompanhar o grá
   - **MongoDB Atlas** - Uso com ajuda
   - **AWS S3** - Uso com ajuda
   - **AWS EC2** - Uso com ajuda
-  - **Swagger** - Uso com ajuda
+  - **Swagger** - Uso com autonomia
 
 #### Soft Skills
 
+Nesse projeto, exercitei a **organização** para gerenciar eficientemente as entregas da equipe, garantindo o cumprimento dos prazos e a fluidez do processo de desenvolvimento. Além disso, utilizei a **comunicação** para acompanhar o andamento das tarefas, identificar possíveis impedimentos e promover a colaboração entre os membros da equipe.
+
+### [Sexto semestre (2025-1)](https://github.com/C0demain/nutriXpert)
+
+- **Professor P2** - José Walmir Gonçalves Duque
+- **Professor M2** - Cláudio Etelvino de Lima
+
+O projeto do sexto semestre teve como empresa parceira a [Xertica](https://www.xertica.ai/pt-br), especializada em soluções focadas em IA e consultorias na América Latina.
+
+O problema apresentado parte da percepção da oportunidade de inserção no mercado de IA com um agente focado na área de nutrição, a qual ainda não havia sido explorada.
+
+Para resolver esse problema, o grupo desenvolveu um agente conversacional inteligente, conforme solicitado pela empresa. O objetivo central do sistema é oferecer suporte personalizado ao usuário, permitindo interações naturais que coletam informações sobre saúde, hábitos alimentares, restrições e metas nutricionais. A solução também busca fornecer recomendações alimentares adequadas, auxiliar na criação de planos de dieta e monitorar o progresso nutricional ao longo do tempo.
+
+#### Tecnologias Utilizadas
+
+- **Mobile**
+  - React Native
+  - Expo
+  - GluestackUI
+  - TailwindCSS
+- **Web**
+  - React
+  - Next.js
+  - Chakra UI
+  - TailwindCSS
+  - Redux Toolkit
+- **API**
+  - NestJS
+  - TypeScript
+  - Node.js
+  - MongoDB Atlas
+  - AWS S3
+  - AWS EC2
+  - Swagger
+
+#### Contribuições Pessoais
+
+Nesse projeto, atuei em conjunto com a equipe de desenvolvimento, sendo responsável pela implementação do sistema de metas e do gerenciamento de refeições no aplicativo Nutrixpert, além do sistema de autenticação de usuários. Também contribuí com melhorias no frontend, especialmente na tela de interação com o agente.
+
+#### Hard Skills
+- **Agent**
+  - **Python** - Uso com autonomia
+  - **Chroma DB** - Uso com ajuda
+  - **Google ADK** - Uso com ajuda
+  - **Fast API** - Uso com ajuda
+- **Web**
+  - **Vue.JS** - Uso com autonomia
+  - **Nuxt** - Uso com ajuda
+- **API**
+  - **Spring** - Uso com ajuda
+  - **Java** - Uso com autonomia
+  - **Postgres** - Uso com autonomia
+  - **Swagger** - Uso com autonomia
+
+#### Soft Skills
+
+// TODO
 Nesse projeto, exercitei a **organização** para gerenciar eficientemente as entregas da equipe, garantindo o cumprimento dos prazos e a fluidez do processo de desenvolvimento. Além disso, utilizei a **comunicação** para acompanhar o andamento das tarefas, identificar possíveis impedimentos e promover a colaboração entre os membros da equipe.
