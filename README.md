@@ -67,6 +67,11 @@ Me considero um desenvolvedor full stack, com mais familiaridade com o back-end.
       - [Contribuições Pessoais](#contribuições-pessoais-4)
       - [Hard Skills](#hard-skills-4)
       - [Soft Skills](#soft-skills-4)
+    - [Sexto semestre (2025-2)](#sexto-semestre-2025-2)
+      - [Tecnologias Utilizadas](#tecnologias-utilizadas-5)
+      - [Contribuições Pessoais](#contribuições-pessoais-5)
+      - [Hard Skills](#hard-skills-5)
+      - [Soft Skills](#soft-skills-5)
 
 </details>
 
@@ -314,7 +319,7 @@ Nesse projeto, atuei como Scrum Master, sendo responsável por acompanhar o grá
 
 Nesse projeto, exercitei a **organização** para gerenciar eficientemente as entregas da equipe, garantindo o cumprimento dos prazos e a fluidez do processo de desenvolvimento. Além disso, utilizei a **comunicação** para acompanhar o andamento das tarefas, identificar possíveis impedimentos e promover a colaboração entre os membros da equipe.
 
-### [Sexto semestre (2025-1)](https://github.com/C0demain/nutriXpert)
+### [Sexto semestre (2025-2)](https://github.com/C0demain/nutriXpert)
 
 - **Professor P2** - José Walmir Gonçalves Duque
 - **Professor M2** - Cláudio Etelvino de Lima
@@ -327,24 +332,18 @@ Para resolver esse problema, o grupo desenvolveu um agente conversacional inteli
 
 #### Tecnologias Utilizadas
 
-- **Mobile**
-  - React Native
-  - Expo
-  - GluestackUI
-  - TailwindCSS
+- **Agent**
+  - Python
+  - Chroma DB
+  - Google ADK
+  - Fast API
 - **Web**
-  - React
-  - Next.js
-  - Chakra UI
-  - TailwindCSS
-  - Redux Toolkit
+  - Vue.JS
+  - Nuxt
 - **API**
-  - NestJS
-  - TypeScript
-  - Node.js
-  - MongoDB Atlas
-  - AWS S3
-  - AWS EC2
+  - Spring
+  - Java
+  - Postgres
   - Swagger
 
 #### Contribuições Pessoais
@@ -369,4 +368,3 @@ Nesse projeto, atuei em conjunto com a equipe de desenvolvimento, sendo respons�
 #### Soft Skills
 
 // TODO
-Nesse projeto, exercitei a **organização** para gerenciar eficientemente as entregas da equipe, garantindo o cumprimento dos prazos e a fluidez do processo de desenvolvimento. Além disso, utilizei a **comunicação** para acompanhar o andamento das tarefas, identificar possíveis impedimentos e promover a colaboração entre os membros da equipe.
