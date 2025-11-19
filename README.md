@@ -177,7 +177,7 @@ Como solução, foi desenvolvido um dashboard de vendas que recebe, processa e c
 
 - **Web**
   - React
-- **Server**
+- **Backend**
   - TypeScript
   - Node.js
 - **Ferramentas**
@@ -192,7 +192,7 @@ Atuei como integrante da equipe de desenvolvimento, sendo responsável pela impl
 
 - **Web**
   - **React** - Uso com autonomia
-- **Server**
+- **Backend**
   - **TypeScript** - Uso com autonomia
   - **Node.js** - Uso com autonomia
 - **Ferramentas**
@@ -221,7 +221,7 @@ Como solução, foi desenvolvido um sistema web de fluxo de trabalho para Ordens
   - Next.js
   - TailwindCSS
   - DaisyUI
-- **Server**
+- **Backend**
   - Typescript
   - NestJS
   - Node.js
@@ -241,7 +241,7 @@ Nesse projeto, contribuí com o desenvolvimento de um sistema de calendário par
   - **React** - Uso com autonomia
   - **TailwindCSS** - Uso com ajuda
   - **DaisyUI** - Uso com ajuda
-- **Server**
+- **Backend**
   - **NestJS** - Uso com autonomia
   - **Node.js** - Uso com autonomia
   - **Typescript** - Uso com autonomia
@@ -280,7 +280,7 @@ Para resolver esse problema, foi desenvolvido um sistema de reembolso corporativ
   - Chakra UI
   - TailwindCSS
   - Redux Toolkit
-- **API**
+- **Backend**
   - NestJS
   - TypeScript
   - Node.js
@@ -306,7 +306,7 @@ Nesse projeto, atuei como Scrum Master, sendo responsável por acompanhar o grá
   - **Chakra UI** - Uso com ajuda
   - **TailwindCSS** - Uso com ajuda
   - **Redux Toolkit** - Uso com ajuda
-- **API**
+- **Backend**
   - **NestJS** - Uso com autonomia
   - **TypeScript** - Uso com autonomia
   - **Node.js** - Uso com autonomia
@@ -340,7 +340,8 @@ Para resolver esse problema, o grupo desenvolveu um agente conversacional inteli
 - **Web**
   - Vue.JS
   - Nuxt
-- **API**
+  - TypeScript
+- **Backend**
   - Spring
   - Java
   - Postgres
@@ -348,7 +349,7 @@ Para resolver esse problema, o grupo desenvolveu um agente conversacional inteli
 
 #### Contribuições Pessoais
 
-Nesse projeto, atuei em conjunto com a equipe de desenvolvimento, sendo responsável pela implementação do sistema de metas e do gerenciamento de refeições no aplicativo Nutrixpert, além do sistema de autenticação de usuários. Também contribuí com melhorias no frontend, especialmente na tela de interação com o agente.
+Nesse projeto, atuei como integrante da equipe de desenvolvimento, sendo responsável pela implementação do sistema de metas, do gerenciamento de refeições e do módulo de autenticação de usuários. Também contribuí com melhorias no frontend, especialmente na interface de interação com o agente, onde realizei a conversão das mensagens retornadas pelo agente de Markdown para HTML e ajustes no layout, aprimorando a experiência do usuário.
 
 #### Hard Skills
 - **Agent**
@@ -359,7 +360,8 @@ Nesse projeto, atuei em conjunto com a equipe de desenvolvimento, sendo respons�
 - **Web**
   - **Vue.JS** - Uso com autonomia
   - **Nuxt** - Uso com ajuda
-- **API**
+  - **TypeScript** - Uso com autonomia
+- **Backend**
   - **Spring** - Uso com ajuda
   - **Java** - Uso com autonomia
   - **Postgres** - Uso com autonomia
@@ -367,4 +369,4 @@ Nesse projeto, atuei em conjunto com a equipe de desenvolvimento, sendo respons�
 
 #### Soft Skills
 
-// TODO
+Nesse projeto, as soft skills que mais desenvolvi foram **solução de problemas** e o **trabalho em equipe**. A capacidade de solucionar problemas foi essencial para analisar cenários, revisar processos e encontrar soluções eficientes, especialmente durante a implementação do gerenciamento de refeições. O trabalho em equipe se destacou pela colaboração constante com os demais integrantes, em especial com o time de front-end. Tive que garantir que os endpoints entregassem os dados nessários, alinhar ideias e construir soluções em conjunto.
