@@ -12,7 +12,7 @@ Atualmente estou atuando como estagiário na empresa [Processware](https://www.p
 ## Contatos
 
 - [GitHub](https://github.com/ryan-wakugawa)
-- [LinkedIn](https://linkedin.com/in/ryan-wakugawa-526bbb27a)
+- [LinkedIn](https://linkedin.com/in/ryan-wakugawa)
 - [Email](mailto:ryawak@gmail.com)
 
 ## Principais conhecimentos
@@ -46,6 +46,8 @@ Me considero um desenvolvedor full stack, com mais familiaridade com o back-end.
       - [Tecnologias Utilizadas](#tecnologias-utilizadas)
       - [Contribuições Pessoais](#contribuições-pessoais)
       - [Hard Skills](#hard-skills)
+        - [Web](#web)
+        - [Versionamento](#versionamento)
       - [Soft Skills](#soft-skills)
     - [Segundo semestre (2023-2)](#segundo-semestre-2023-2)
       - [Tecnologias Utilizadas](#tecnologias-utilizadas-1)
@@ -82,7 +84,7 @@ Me considero um desenvolvedor full stack, com mais familiaridade com o back-end.
 
 O projeto do primeiro semestre teve como empresa parceira a própria faculdade. O professor **Antônio Egydio São Thiago Graça** assumiu o papel de cliente final.
 
-O problema apresentado se baseava na dificuldade que novos funcionários apresentavam para aprender e aplicar a metodologia Scrum dentro do ambiente profissional, necessitando que funcionários mais experientes dedicassem parte do tempo para auxiliá-los.
+O problema identificado estava relacionado à dificuldade enfrentada por novos colaboradores em aprender e aplicar a metodologia Scrum no ambiente profissional. A ausência de familiaridade com o método fazia com que funcionários mais experientes precisassem interromper suas atividades para explicar conceitos e práticas, o que resultava em perda de produtividade e sobrecarga para a equipe.
 
 A solução adotada foi o desenvolvimento de um aplicativo web que centralizava informações sobre o Scrum e oferecia uma trilha de aprendizado interativa para revisar os conteúdos abordados. O aplicativo foi projetado com foco especial em responsividade, para que o usuário pudesse utilizá-lo a partir de qualquer dispositivo.
 
@@ -100,18 +102,26 @@ A solução adotada foi o desenvolvimento de um aplicativo web que centralizava 
 
 #### Contribuições Pessoais
 
-Nesse projeto atuei como Product Owner, montei o backlog, realizei reuniões semanais com o cliente e garantindo que o produto final esteja de acordo com as visões dele. Além disso, contribuí diretamente com o time de desenvolvimento, auxiliando na criação das páginas da aplicação utilizando HTML e CSS, bem como na configuração do framework Flask.
+Neste projeto, atuei como Product Owner, sendo responsável pela definição e priorização do backlog do produto, garantindo que as funcionalidades desenvolvidas estivessem alinhadas às necessidades e objetivos do cliente. Conduzi reuniões semanais de acompanhamento, nas quais realizava o levantamento de requisitos, a validação das entregas e ajustes de escopo com base no feedback recebido, assegurando que o produto final estivesse em conformidade com a visão e as expectativas do cliente.
+
+Além da atuação em gestão de produto, participei ativamente do desenvolvimento da aplicação, contribuindo para a criação das páginas utilizando HTML e CSS, com foco em organização visual e usabilidade. Também auxiliei na configuração do framework Flask, realizando a estruturação inicial do projeto e a configuração dos templates das páginas.
 
 #### Hard Skills
 
-- **Web**
-  - **Python** - Uso com autonomia
-  - **HTML** - Uso com autonomia
-  - **CSS** - Uso com autonomia
-  - **Python** - Uso com autonomia
-  - **Flask** - Uso com ajuda
-- **Versionamento**
-  - **Git** - Uso com autonomia
+##### Web
+
+| Tecnologia | Nível de Uso      |
+|------------|-------------------|
+| Python     | Uso com autonomia |
+| HTML       | Uso com autonomia |
+| CSS        | Uso com autonomia |
+| Flask      | Uso com ajuda     |
+
+##### Versionamento
+
+| Tecnologia | Nível de Uso      |
+|------------|-------------------|
+| Git        | Uso com autonomia |
 
 #### Soft Skills
 
@@ -126,9 +136,9 @@ Também foi essencial exercer minha **resiliência** ao enfrentar desafios inéd
 
 O projeto do segundo semestre teve como empresa parceira a própria faculdade. O professor **Giuliano Araujo Bertoti** assumiu o papel de cliente final.
 
-O problema apresentado baseava-se na escassez de chatbots no mercado capazes de ler o conteúdo de arquivos PDFs e utilizá-los como base para responder perguntas pertinentes ao contexto.
+O problema identificado estava relacionado à escassez de chatbots no mercado capazes de interpretar o conteúdo de arquivos PDF e utilizá-lo como base para responder perguntas de forma contextualizada. Em ambientes corporativos, onde há grande volume de documentos e informações, a busca por dados específicos nesses arquivos tende a ser um processo demorado, manual e pouco eficiente.
 
-Como solução, foi desenvolvido um aplicativo desktop em Java que permite ao usuário carregar um arquivo PDF e, a partir dele, fazer perguntas relacionadas ao conteúdo. O sistema analisa o documento, gera respostas pertinentes e mantém um registro geral de uso, incluindo informações como o horário de acesso e o usuário responsável.
+Como solução, foi desenvolvido um aplicativo desktop em Java que permite ao usuário carregar um arquivo PDF e, a partir dele, fazer perguntas relacionadas ao conteúdo. O sistema analisa o documento, gera respostas pertinentes e mantém um registro geral de uso, incluindo informações como o horário de acesso e o usuário responsável de forma eficiente, rápida e precisa.
 
 #### Tecnologias Utilizadas
 
@@ -143,7 +153,9 @@ Como solução, foi desenvolvido um aplicativo desktop em Java que permite ao us
 
 #### Contribuições Pessoais
 
-Nesse projeto, atuei como integrante do time de desenvolvimento, sendo responsável pela integração do sistema de login com o banco de dados e pela implementação da interface de seleção de arquivos, utilizando Java Swing.
+Neste projeto, atuei como integrante do time de desenvolvimento, sendo responsável pela integração do sistema de login com o banco de dados, utilizando Java para a validação de credenciais, comunicação com a camada de persistência e controle de acesso dos usuários. A implementação envolveu a execução de consultas ao banco de dados, bem como o tratamento de exceções e erros de autenticação.
+
+Além disso, desenvolvi a interface gráfica para seleção de arquivos utilizando Java Swing, implementando componentes visuais, gerenciamento de eventos e validações de entrada. Também fui responsável pela implementação do sistema de leitura de arquivos de texto, permitindo o processamento e a extração de informações necessárias para o funcionamento da aplicação.
 
 #### Hard Skills
 
@@ -169,7 +181,7 @@ Além disso, coloquei em prática a soft skill **trabalho em equipe** ao colabor
 
 O projeto do terceiro semestre teve como empresa parceira a [Pro4Tech](https://www.pro4tech.com.br/), especializada em transformação digital.
 
-O problema apresentado provém da dificuldade em quantificar e categorizar as vendas realizadas, comprometendo a tomada de decisões e o planejamento estratégico da empresa, e de recompensar a performance dos vendedores baseando-se em certos critérios.
+O problema apresentado está relacionado à dificuldade em quantificar, categorizar e analisar as vendas realizadas, o que compromete a tomada de decisões e o planejamento estratégico da empresa, além de dificultar a recompensa adequada da performance dos vendedores com base em critérios definidos. Esse cenário é comum em empresas que atuam com vendas e enfrentam desafios na gestão de comissões, especialmente quando existem múltiplos tipos de vendas e regras de remuneração distintas, tornando o controle manual dos cálculos suscetível a erros, retrabalho e perda de produtividade.
 
 Como solução, foi desenvolvido um dashboard de vendas que recebe, processa e classifica vendas de acordo com o tipo (produto novo ou antigo, para cliente novo ou antigo), beneficiando o vendedor com um bônus dependendo do tipo de venda.
 
@@ -186,7 +198,9 @@ Como solução, foi desenvolvido um dashboard de vendas que recebe, processa e c
 
 #### Contribuições Pessoais
 
-Atuei como integrante da equipe de desenvolvimento, sendo responsável pela implementação de rotas no backend para disponibilizar estatísticas de comissões, vendas e clientes, utilizadas na geração de gráficos do dashboard. Também desenvolvi filtros para otimizar a visualização e análise dos dados, além de contribuir com a identificação e correção de bugs no sistema.
+Atuei como integrante da equipe de desenvolvimento, sendo responsável pela implementação de rotas no back-end utilizando Node.js e TypeScript, estruturando endpoints REST para disponibilização de estatísticas de comissões, vendas e clientes. As rotas realizavam o processamento e agregação dos dados, incluindo cálculos de comissões e consolidação de informações, a partir de consultas ao banco de dados PostgreSQL.
+
+Além disso, desenvolvi filtros dinâmicos no back-end para permitir a segmentação dos dados por critérios como período, tipo de venda e vendedor, otimizando o consumo dessas informações pelo dashboard.
 
 #### Hard Skills
 
@@ -210,7 +224,7 @@ Nesse projeto tive que aplicar meu **pensamento crítico** para analisar quais o
 
 O projeto do quarto semestre teve como empresa parceira a [JJM Log](https://logistica.jjmlog.com/), empresa de logística, transporte e distribução.
 
-O problema apresentado baseava-se na necessidade da empresa de uma plataforma unificada para acompanhamento de ordens de serviço e organização de reuniões entre os funcionários.
+O problema apresentado estava relacionado falta de eficiência nos processos internos da empresa, decorrente da ausência de uma solução centralizada para a gestão das ordens de serviço e da comunicação entre os setores. A falta de um sistema unificado dificultava o monitoramento do andamento das atividades, o gerenciamento de documentos, o planejamento de viagens e a organização de reuniões, fazendo com que esses processos fossem realizados de forma manual. Esse cenário resultava em atrasos operacionais, falhas de comunicação e perda de produtividade, impactando diretamente a eficiência da empresa.
 
 Como solução, foi desenvolvido um sistema web de fluxo de trabalho para Ordens de Serviço, permitindo o acompanhamento em tempo real do andamento e cumprimento das tarefas relacionadas a cada ordem e um portal do funcionário. O sistema conta ainda com um dashboard de indicadores de desempenho, segmentado por departamento (operacional, comercial e financeiro), possibilitando a análise de produtividade e metas. Também foi criada uma base de dados indexada para armazenamento e consulta de documentos e planilhas importantes, um sistema de agenda para marcação de compromissos e prazos de tarefas e um chat interno para facilitar a comunicação entre os colaboradores.
 
@@ -232,7 +246,9 @@ Como solução, foi desenvolvido um sistema web de fluxo de trabalho para Ordens
 
 #### Contribuições Pessoais
 
-Nesse projeto, contribuí com o desenvolvimento de um sistema de calendário para organização de reuniões e eventos importantes, com integração ao Google Agenda para sincronização entre múltiplos dispositivos. Além disso, implementei um gatilho (trigger) no banco de dados para alterar automaticamente o status de uma ordem de serviço com base na conclusão das tarefas associadas.
+Neste projeto, atuei no desenvolvimento de um sistema de calendário voltado à organização de reuniões e eventos corporativos, permitindo o planejamento e acompanhamento de compromissos internos. O sistema contou com integração com o Google Agenda, possibilitando a sincronização automática dos eventos entre múltiplos dispositivos, garantindo consistência e atualização em tempo real.
+
+Além disso, implementei um trigger no banco de dados para atualizar automaticamente o status das ordens de serviço conforme a progressão das tarefas associadas, reforçando a integridade dos dados e reduzindo a necessidade de intervenções manuais no processo.
 
 #### Hard Skills
 
@@ -263,7 +279,7 @@ Além disso, foi essencial exercer **flexibilidade e resiliência** durante o de
 
 O projeto do quinto semestre teve como empresa parceira a [GSW](https://www.gsw.com.br/), especializada no desenvolvimento em soluções em TI, tais como gerenciamento e controle de processos.
 
-O problema apresentado envolvia a complexidade e a demora no processo de aprovação e gerenciamento de reembolsos de despesas corporativas, causando atrasos e falta de transparência tanto para funcionários quanto para gestores.
+O problema identificado estava relacionado às dificuldades enfrentadas por empresas que operam com projetos e equipes externas na gestão de solicitações de reembolso de despesas corporativas. A ausência de um processo automatizado e centralizado para o controle de despesas, limites por projeto e fluxos de aprovação tornava o gerenciamento lento e complexo, resultando em atrasos, erros e retrabalho, além de comprometer a transparência tanto para os colaboradores quanto para os gestores responsáveis pelas aprovações.
 
 Para resolver esse problema, foi desenvolvido um sistema de reembolso corporativo que permite aos colaboradores registrarem suas despesas, anexar comprovantes e acompanhar em tempo real o status das solicitações. Os gestores, por sua vez, têm acesso a um painel administrativo que facilita a análise e decisão sobre os pedidos, com base em regras pré-estabelecidas, como limites de valor por projeto.
 
@@ -291,7 +307,9 @@ Para resolver esse problema, foi desenvolvido um sistema de reembolso corporativ
 
 #### Contribuições Pessoais
 
-Nesse projeto, atuei como Scrum Master, sendo responsável por acompanhar o gráfico de burndown da equipe e garantir que as entregas das sprints ocorressem dentro dos prazos estabelecidos. Também contribuí no desenvolvimento do backend, atuando na correção de bugs e na implementação de funcionalidades no painel administrativo, promovendo melhorias na usabilidade e no controle do sistema.
+Neste projeto, atuei como Scrum Master, sendo responsável pelo acompanhamento do gráfico de burndown, organização das sprints, facilitação das cerimônias ágeis (planning, daily, review e retrospectiva) e garantia do cumprimento dos prazos definidos. Também atuei na remoção de impedimentos do time e no alinhamento contínuo entre as áreas técnica e de negócio, assegurando maior previsibilidade nas entregas.
+
+Além da atuação em gestão ágil, contribuí diretamente no desenvolvimento do back-end, utilizando NestJS e TypeScript, atuando na correção de bugs, refatoração de código e implementação de novas funcionalidades no painel administrativo. As contribuições envolveram ajustes em regras de negócio, validações de dados, criação de novas rotas, integração com o MongoDB Atlas e melhorias na usabilidade e no controle do sistema, aumentando a confiabilidade e a eficiência da aplicação.
 
 #### Hard Skills
 
@@ -326,7 +344,9 @@ Nesse projeto, exercitei a **organização** para gerenciar eficientemente as en
 
 O projeto do sexto semestre teve como empresa parceira a [Xertica](https://www.xertica.ai/pt-br), especializada em soluções focadas em IA e consultorias na América Latina.
 
-O problema apresentado parte da percepção da oportunidade de inserção no mercado de IA com um agente focado na área de nutrição, a qual ainda não havia sido explorada.
+O problema identificado está relacionado às dificuldades enfrentadas por grande parte das pessoas em manter hábitos alimentares consistentes, causadas pela falta de conhecimento nutricional, pelo excesso de informações contraditórias e pela dificuldade em montar dietas e acompanhar a própria evolução. As plataformas existentes, em sua maioria, oferecem soluções genéricas, que não consideram as necessidades individuais de cada usuário, tornando o processo pouco eficiente e desmotivador.
+
+Diante desse cenário, foi identificada a oportunidade de inserção no mercado de Inteligência Artificial por meio do desenvolvimento de um agente focado na área de nutrição, capaz de oferecer orientações mais personalizadas e acompanhamento contínuo.
 
 Para resolver esse problema, o grupo desenvolveu um agente conversacional inteligente, conforme solicitado pela empresa. O objetivo central do sistema é oferecer suporte personalizado ao usuário, permitindo interações naturais que coletam informações sobre saúde, hábitos alimentares, restrições e metas nutricionais. A solução também busca fornecer recomendações alimentares adequadas, auxiliar na criação de planos de dieta e monitorar o progresso nutricional ao longo do tempo.
 
@@ -349,9 +369,14 @@ Para resolver esse problema, o grupo desenvolveu um agente conversacional inteli
 
 #### Contribuições Pessoais
 
-Nesse projeto, atuei como integrante da equipe de desenvolvimento, sendo responsável pela implementação do sistema de metas, do gerenciamento de refeições e do módulo de autenticação de usuários. Também contribuí com melhorias no frontend, especialmente na interface de interação com o agente, onde realizei a conversão das mensagens retornadas pelo agente de Markdown para HTML e ajustes no layout, aprimorando a experiência do usuário.
+Neste projeto, atuei como integrante da equipe de desenvolvimento, sendo responsável pela implementação do sistema de metas nutricionais, permitindo a definição, acompanhamento e atualização de objetivos individuais dos usuários. Também desenvolvi o gerenciamento de refeições, incluindo o registro, edição e consulta das informações alimentares, garantindo a persistência e recuperação dos dados no banco de dados.
+
+Além disso, implementei o módulo de autenticação de usuários, envolvendo validação de credenciais usando o Spring Security, gerenciamento e validação de tokens de autenticação, controle de níveis de acesso e integração com as demais funcionalidades do sistema.
+
+No front-end, contribuí com melhorias na interface de interação com o agente de IA, utilizando Vue.js, Nuxt e TypeScript. Realizei a conversão das respostas do agente de Markdown para HTML, garantindo a correta renderização do conteúdo dinâmico, além de ajustes no layout e na usabilidade, proporcionando uma experiência mais clara e intuitiva para o usuário durante a interação com o agente.
 
 #### Hard Skills
+
 - **Agent**
   - **Python** - Uso com autonomia
   - **Chroma DB** - Uso com ajuda
