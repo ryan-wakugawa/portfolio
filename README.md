@@ -53,26 +53,42 @@ Me considero um desenvolvedor full stack, com mais familiaridade com o back-end.
       - [Tecnologias Utilizadas](#tecnologias-utilizadas-1)
       - [Contribuições Pessoais](#contribuições-pessoais-1)
       - [Hard Skills](#hard-skills-1)
+        - [Aplicação](#aplicação)
+        - [Ferramentas](#ferramentas)
+        - [Versionamento](#versionamento-1)
       - [Soft Skills](#soft-skills-1)
     - [Terceiro semestre (2024-1)](#terceiro-semestre-2024-1)
       - [Tecnologias Utilizadas](#tecnologias-utilizadas-2)
       - [Contribuições Pessoais](#contribuições-pessoais-2)
       - [Hard Skills](#hard-skills-2)
+        - [Web](#web-1)
+        - [Backend](#backend)
+        - [Ferramentas](#ferramentas-1)
       - [Soft Skills](#soft-skills-2)
     - [Quarto semestre (2024-2)](#quarto-semestre-2024-2)
       - [Tecnologias Utilizadas](#tecnologias-utilizadas-3)
       - [Contribuições Pessoais](#contribuições-pessoais-3)
       - [Hard Skills](#hard-skills-3)
+        - [Web](#web-2)
+        - [Backend](#backend-1)
+        - [Ferramentas](#ferramentas-2)
       - [Soft Skills](#soft-skills-3)
     - [Quinto semestre (2025-1)](#quinto-semestre-2025-1)
       - [Tecnologias Utilizadas](#tecnologias-utilizadas-4)
       - [Contribuições Pessoais](#contribuições-pessoais-4)
       - [Hard Skills](#hard-skills-4)
+        - [Mobile](#mobile)
+        - [Web](#web-3)
+        - [Backend](#backend-2)
+        - [Cloud](#cloud)
       - [Soft Skills](#soft-skills-4)
     - [Sexto semestre (2025-2)](#sexto-semestre-2025-2)
       - [Tecnologias Utilizadas](#tecnologias-utilizadas-5)
       - [Contribuições Pessoais](#contribuições-pessoais-5)
       - [Hard Skills](#hard-skills-5)
+        - [Agent](#agent)
+        - [Web](#web-4)
+        - [Backend](#backend-3)
       - [Soft Skills](#soft-skills-5)
 
 </details>
@@ -159,14 +175,26 @@ Além disso, desenvolvi a interface gráfica para seleção de arquivos utilizan
 
 #### Hard Skills
 
-- **Aplicação**
-  - **Java** - Uso com autonomia
-  - **Java Swing** - Uso com autonomia
-- **Ferramentas**
-  - **Gradle** - Uso com autonomia
-  - **MySQL** - Uso com ajuda
-- **Versionamento**
-  - **Git** - Uso com autonomia
+
+##### Aplicação
+
+| Tecnologia | Nível de Uso      |
+|------------|-------------------|
+| Java       | Uso com autonomia |
+| Java Swing | Uso com autonomia |
+
+##### Ferramentas
+
+| Tecnologia | Nível de Uso      |
+|------------|-------------------|
+| Gradle     | Uso com autonomia |
+| MySQL      | Uso com ajuda     |
+
+##### Versionamento
+
+| Tecnologia | Nível de Uso      |
+|------------|-------------------|
+| Git        | Uso com autonomia |
 
 #### Soft Skills
 
@@ -204,14 +232,25 @@ Além disso, desenvolvi filtros dinâmicos no back-end para permitir a segmenta�
 
 #### Hard Skills
 
-- **Web**
-  - **React** - Uso com autonomia
-- **Backend**
-  - **TypeScript** - Uso com autonomia
-  - **Node.js** - Uso com autonomia
-- **Ferramentas**
-  - **PostgreSQL** - Uso com autonomia
-  - **Postman** - Uso com autonomia
+##### Web
+
+| Tecnologia | Nível de Uso      |
+|------------|-------------------|
+| React      | Uso com autonomia |
+
+##### Backend
+
+| Tecnologia | Nível de Uso      |
+|------------|-------------------|
+| TypeScript | Uso com autonomia |
+| Node.js    | Uso com autonomia |
+
+##### Ferramentas
+
+| Tecnologia | Nível de Uso      |
+|------------|-------------------|
+| PostgreSQL | Uso com autonomia |
+| Postman    | Uso com autonomia |
 
 #### Soft Skills
 
@@ -252,19 +291,30 @@ Além disso, implementei um trigger no banco de dados para atualizar automaticam
 
 #### Hard Skills
 
-- **Web**
-  - **Next.js** - Uso com ajuda
-  - **React** - Uso com autonomia
-  - **TailwindCSS** - Uso com ajuda
-  - **DaisyUI** - Uso com ajuda
-- **Backend**
-  - **NestJS** - Uso com autonomia
-  - **Node.js** - Uso com autonomia
-  - **Typescript** - Uso com autonomia
-- **Ferramentas**
-  - **PostgreSQL** - Uso com autonomia
-  - **Swagger** - Uso com autonomia
-  - **Docker** - Uso com autonomia
+##### Web
+
+| Tecnologia  | Nível de Uso      |
+|-------------|-------------------|
+| Next.js     | Uso com ajuda     |
+| React       | Uso com autonomia |
+| TailwindCSS | Uso com ajuda     |
+| DaisyUI     | Uso com ajuda     |
+
+##### Backend
+
+| Tecnologia | Nível de Uso      |
+|------------|-------------------|
+| NestJS     | Uso com autonomia |
+| Node.js    | Uso com autonomia |
+| TypeScript | Uso com autonomia |
+
+##### Ferramentas
+
+| Tecnologia | Nível de Uso      |
+|------------|-------------------|
+| PostgreSQL | Uso com autonomia |
+| Swagger    | Uso com autonomia |
+| Docker     | Uso com autonomia |
 
 #### Soft Skills
 
@@ -313,25 +363,41 @@ Além da atuação em gestão ágil, contribuí diretamente no desenvolvimento d
 
 #### Hard Skills
 
-- **Mobile**
-  - **React Native** - Uso com ajuda
-  - **Expo** - Uso com ajuda
-  - **GluestackUI** - Uso com ajuda
-  - **TailwindCSS** - Uso com ajuda
-- **Web**
-  - **React** - Uso com autonomia
-  - **Next.js** - Uso com ajuda
-  - **Chakra UI** - Uso com ajuda
-  - **TailwindCSS** - Uso com ajuda
-  - **Redux Toolkit** - Uso com ajuda
-- **Backend**
-  - **NestJS** - Uso com autonomia
-  - **TypeScript** - Uso com autonomia
-  - **Node.js** - Uso com autonomia
-  - **MongoDB Atlas** - Uso com ajuda
-  - **AWS S3** - Uso com ajuda
-  - **AWS EC2** - Uso com ajuda
-  - **Swagger** - Uso com autonomia
+##### Mobile
+
+| Tecnologia   | Nível de Uso  |
+|--------------|---------------|
+| React Native | Uso com ajuda |
+| Expo         | Uso com ajuda |
+| GluestackUI  | Uso com ajuda |
+| TailwindCSS  | Uso com ajuda |
+
+##### Web
+
+| Tecnologia    | Nível de Uso      |
+|---------------|-------------------|
+| React         | Uso com autonomia |
+| Next.js       | Uso com ajuda     |
+| Chakra UI     | Uso com ajuda     |
+| TailwindCSS   | Uso com ajuda     |
+| Redux Toolkit | Uso com ajuda     |
+
+##### Backend
+
+| Tecnologia    | Nível de Uso      |
+|---------------|-------------------|
+| NestJS        | Uso com autonomia |
+| TypeScript    | Uso com autonomia |
+| Node.js       | Uso com autonomia |
+| MongoDB Atlas | Uso com ajuda     |
+| Swagger       | Uso com autonomia |
+
+##### Cloud
+
+| Tecnologia | Nível de Uso  |
+|------------|---------------|
+| AWS S3     | Uso com ajuda |
+| AWS EC2    | Uso com ajuda |
 
 #### Soft Skills
 
@@ -377,20 +443,31 @@ No front-end, contribuí com melhorias na interface de interação com o agente 
 
 #### Hard Skills
 
-- **Agent**
-  - **Python** - Uso com autonomia
-  - **Chroma DB** - Uso com ajuda
-  - **Google ADK** - Uso com ajuda
-  - **Fast API** - Uso com ajuda
-- **Web**
-  - **Vue.JS** - Uso com autonomia
-  - **Nuxt** - Uso com ajuda
-  - **TypeScript** - Uso com autonomia
-- **Backend**
-  - **Spring** - Uso com ajuda
-  - **Java** - Uso com autonomia
-  - **Postgres** - Uso com autonomia
-  - **Swagger** - Uso com autonomia
+##### Agent
+
+| Tecnologia | Nível de Uso      |
+|------------|-------------------|
+| Python     | Uso com autonomia |
+| Chroma DB  | Uso com ajuda     |
+| Google ADK | Uso com ajuda     |
+| Fast API   | Uso com ajuda     |
+
+##### Web
+
+| Tecnologia | Nível de Uso      |
+|------------|-------------------|
+| Vue.js     | Uso com autonomia |
+| Nuxt       | Uso com ajuda     |
+| TypeScript | Uso com autonomia |
+
+##### Backend
+
+| Tecnologia | Nível de Uso      |
+|------------|-------------------|
+| Spring     | Uso com ajuda     |
+| Java       | Uso com autonomia |
+| Postgres   | Uso com autonomia |
+| Swagger    | Uso com autonomia |
 
 #### Soft Skills
 
